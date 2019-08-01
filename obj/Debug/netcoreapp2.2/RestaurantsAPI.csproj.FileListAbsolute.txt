@@ -1,0 +1,42 @@
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.deps.json
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.runtimeconfig.json
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.runtimeconfig.dev.json
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.dll
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.pdb
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.csproj.CoreCompileInputs.cache
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.RazorAssemblyInfo.cache
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.RazorAssemblyInfo.cs
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.AssemblyInfoInputs.cache
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.AssemblyInfo.cs
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.RazorTargetAssemblyInfo.cache
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.dll
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.pdb
+E:\FSDTraining\DotnetCore\CaseStudy\RestaurantsAPI\RestaurantsAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.csprojAssemblyReference.cache
+D:\My Work Space\hexa-eats\restaurantAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.deps.json
+D:\My Work Space\hexa-eats\restaurantAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.runtimeconfig.json
+D:\My Work Space\hexa-eats\restaurantAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.runtimeconfig.dev.json
+D:\My Work Space\hexa-eats\restaurantAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.dll
+D:\My Work Space\hexa-eats\restaurantAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.pdb
+D:\My Work Space\hexa-eats\restaurantAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.csprojResolveAssemblyReference.cache
+D:\My Work Space\hexa-eats\restaurantAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.csproj.CoreCompileInputs.cache
+D:\My Work Space\hexa-eats\restaurantAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.RazorAssemblyInfo.cache
+D:\My Work Space\hexa-eats\restaurantAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.RazorAssemblyInfo.cs
+D:\My Work Space\hexa-eats\restaurantAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.AssemblyInfoInputs.cache
+D:\My Work Space\hexa-eats\restaurantAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.AssemblyInfo.cs
+D:\My Work Space\hexa-eats\restaurantAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.RazorTargetAssemblyInfo.cache
+D:\My Work Space\hexa-eats\restaurantAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.dll
+D:\My Work Space\hexa-eats\restaurantAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.pdb
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.deps.json
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.runtimeconfig.json
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.runtimeconfig.dev.json
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.dll
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\bin\Debug\netcoreapp2.2\RestaurantsAPI.pdb
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.csproj.CoreCompileInputs.cache
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.RazorAssemblyInfo.cache
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.RazorAssemblyInfo.cs
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.AssemblyInfoInputs.cache
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.AssemblyInfo.cs
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.RazorTargetAssemblyInfo.cache
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.dll
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.pdb
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\obj\Debug\netcoreapp2.2\RestaurantsAPI.csprojAssemblyReference.cache

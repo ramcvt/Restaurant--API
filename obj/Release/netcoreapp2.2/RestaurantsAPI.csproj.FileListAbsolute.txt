@@ -1,0 +1,14 @@
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\bin\Release\netcoreapp2.2\RestaurantsAPI.deps.json
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\bin\Release\netcoreapp2.2\RestaurantsAPI.runtimeconfig.json
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\bin\Release\netcoreapp2.2\RestaurantsAPI.runtimeconfig.dev.json
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\bin\Release\netcoreapp2.2\RestaurantsAPI.dll
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\bin\Release\netcoreapp2.2\RestaurantsAPI.pdb
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\obj\Release\netcoreapp2.2\RestaurantsAPI.csprojAssemblyReference.cache
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\obj\Release\netcoreapp2.2\RestaurantsAPI.csproj.CoreCompileInputs.cache
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\obj\Release\netcoreapp2.2\RestaurantsAPI.RazorAssemblyInfo.cache
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\obj\Release\netcoreapp2.2\RestaurantsAPI.RazorAssemblyInfo.cs
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\obj\Release\netcoreapp2.2\RestaurantsAPI.AssemblyInfoInputs.cache
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\obj\Release\netcoreapp2.2\RestaurantsAPI.AssemblyInfo.cs
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\obj\Release\netcoreapp2.2\RestaurantsAPI.RazorTargetAssemblyInfo.cache
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\obj\Release\netcoreapp2.2\RestaurantsAPI.dll
+E:\Ram\CaseStudy-Github\RestaurantAPI2\RestaurantAPI\obj\Release\netcoreapp2.2\RestaurantsAPI.pdb
